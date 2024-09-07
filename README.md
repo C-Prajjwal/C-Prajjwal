@@ -6,4 +6,4 @@
 
 📫 How to reach me chitragarprajjwal2@gmail.com
 
-![aa](https://github.com/user-attachments/assets/d42fa94a-7dd0-4efe-9757-29eda8a91424)
+![aa](https://images.app.goo.gl/6CGe5j5zMMxizDGx6) 
