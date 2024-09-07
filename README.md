@@ -8,4 +8,4 @@ C Prajjwal
 
 📫 How to reach me chitragarprajjwal2@gmail.com
 
-![image](https://github.com/user-attachments/assets/9fa54d3b-e286-424c-a7a9-14a5a67f3a35)
+![image](https://github.com/user-attachments/assets/16f6de17-7642-48e0-9106-2d47368cfd4f)
