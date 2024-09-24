@@ -1,6 +1,6 @@
 C Prajjwal
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Machine Learning
 
 👯 I’m looking to collaborate on C,JavaScript,Python
 
