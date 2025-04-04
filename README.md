@@ -2,7 +2,6 @@ Hi, I'm C Prajjwal — a passionate tech graduate with a Bachelor of Engineering
 
 With a strong foundation in Python, SQL, and Java, I’ve built and deployed projects that bring real value:
 - 🔍 A Phishing Detection App using Machine Learning and Streamlit UI.
-- ⚙️ A Sports Club Management System with MySQL to automate operations.
 - 💼 A secure Bank Account Manager in Java for seamless transactions.
 
 📫 How to reach me chitragarprajjwal2@gmail.com
